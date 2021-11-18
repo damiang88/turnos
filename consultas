@@ -1,5 +1,5 @@
 [ {"text": "vacio", "val":"Tipo de consulta..." },
-  {"text": "1", "val":"Consulta Cajas" },
-  {"text": "2", "val":"Operaciones Cta Cte" },
-  {"text": "3", "val":"Extracciones grandes montos" },
-  {"text": "4", "val":"Operacion moneda extranjera" } ]
+  {"text": "Consulta Cajas", "val":"Consulta Cajas" },
+  {"text": "Operaciones Cta Cte", "val":"Operaciones Cta Cte" },
+  {"text": "Extracciones grandes montos", "val":"Extracciones grandes montos" },
+  {"text": "Operacion moneda extranjera", "val":"Operacion moneda extranjera" } ]
